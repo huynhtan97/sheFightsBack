@@ -198,4 +198,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
 
     }
+
+    //Tiffany's Code
+    public void linkBrowser(View view){
+        Uri uri = Uri.parse("http://www.thehotline.org/what-is-live-chat/");
+        Intent linkIntent = new Intent(Intent.ACTION_VIEW, uri);
+        startActivity(linkIntent);
+    }
+
 }

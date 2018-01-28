@@ -9,4 +9,8 @@
         <item>Lofi</item>
         <item>Rap</item>
     </array>
+
+    <!-- Tiffany's Code -->
+    <string name="link_string"> <a href="www.google.com">Chat Link</a> </string>
+
 </resources>
