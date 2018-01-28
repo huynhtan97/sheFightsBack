@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SheFightsBack</string>
+    
+    <string name="string">Enter Name</string>
+    
+    <array name="genres">
+        <item>Rock</item>
+        <item>Pop</item>
+        <item>Lofi</item>
+        <item>Rap</item>
+    </array>
+</resources>
